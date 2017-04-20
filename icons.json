@@ -1,0 +1,18 @@
+[
+	{
+		"file": "icon-90.png",
+		"dimension": 90
+	},
+	{
+		"file": "icon-96.png",
+		"dimension": 96
+	},
+	{
+		"file": "icon-110.png",
+		"dimension": 110
+	},
+	{
+		"file": "icon-144.png",
+		"dimension": 144
+	}
+]

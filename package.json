@@ -1,0 +1,35 @@
+{
+  "name": "bb10-icon-list",
+  "version": "0.0.0",
+  "description": "List of the BlackBerry 10 app icons",
+  "license": "MIT",
+  "repository": "SamVerschueren/bb10-icon-list",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "icons.json"
+  ],
+  "keywords": [
+    "bb10",
+    "application",
+    "icons",
+    "list",
+    "data",
+    "blackberry",
+    "blackberry10"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
